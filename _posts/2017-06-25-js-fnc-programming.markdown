@@ -2,7 +2,7 @@
 layout: post
 title:  "[세미나 후기] 함수형 자바스크립트 프로그래밍"
 date:   2017-06-25 21:00:00 +0900
-# comments: true
+comments: true
 categories: review
 tags: [review, javascript, functional-programming]
 ---

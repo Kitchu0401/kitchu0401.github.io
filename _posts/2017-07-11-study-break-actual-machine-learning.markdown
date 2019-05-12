@@ -2,7 +2,7 @@
 layout: post
 title:  "[세미나 후기] 스터디뽀개기 - 실전 머신러닝"
 date:   2017-07-11 18:30:00 +0900
-# comments: true
+comments: true
 categories: review
 tags: [review, seminar, study, study break, machine learning]
 ---

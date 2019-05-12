@@ -2,7 +2,7 @@
 layout: post
 title:  "[세미나 후기] 오픈소스 개발자 이야기"
 date:   2017-07-02 20:00:00 +0900
-# comments: true
+comments: true
 categories: review
 tags: [review, seminar, oss, open-source, open-source-software, code-review]
 ---

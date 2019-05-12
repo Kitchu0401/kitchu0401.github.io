@@ -2,7 +2,7 @@
 layout: post
 title:  "Github.io blogging with jekyll start :)"
 date:   2017-06-10 15:23:00 +0900
-# comments: true
+comments: true
 categories: jekyll
 tags: [jekyll]
 ---

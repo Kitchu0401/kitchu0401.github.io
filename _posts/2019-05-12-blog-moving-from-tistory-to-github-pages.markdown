@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "블로그 소생기 #1"
-date: 2017-11-08 18:30:00 +0900
+date: 2019-05-12 04:30:00 +0900
 comments: true
-# published: false
 categories: [jekyll]
 tags: [jekyll, disqus]
 ---

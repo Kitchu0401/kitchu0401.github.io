@@ -2,8 +2,7 @@
 layout: post
 title: "[Malifaux] 야수 모델 정리"
 date: 2017-11-08 18:30:00 +0900
-# comments: true
-# published: false
+comments: true
 categories: hobby
 tags: [hobby, play, boardgame, malifaux, model, beast]
 ---

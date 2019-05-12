@@ -2,7 +2,7 @@
 layout: post
 title:  "블로그 테마 변경 - Jekyll-Uno"
 date:   2017-06-25 20:00:00 +0900
-# comments: true
+comments: true
 categories: jekyll
 tags: [jekyll]
 ---
