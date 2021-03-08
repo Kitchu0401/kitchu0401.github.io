@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clean Code의 보이스카우트 규칙"
-date: 2010-03-08 16:50:00 +0900
+date: 2021-03-08 16:50:00 +0900
 published: true
 comments: true
 categories: [coding stype]
