@@ -65,7 +65,7 @@ Access Key ID 및 Secret Access Key는 발급받은 액세스 키를 입력하�
 
 예를 들어, 업로드된 리소스의 구조가 아래와 같다면
 
-```
+``` sh
 root /
     css /
         app.chunk-id.css
