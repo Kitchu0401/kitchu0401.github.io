@@ -4,7 +4,7 @@ title: "Git SSH 설정하기"
 date: 2021-11-02 11:29:00 +0900
 published: true
 comments: true
-categories: [git]]
+categories: [git]
 tags: [git, ssh, linux]
 ---
 
