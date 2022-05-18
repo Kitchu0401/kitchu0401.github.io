@@ -38,7 +38,7 @@ tags: [paper, deep-learning, nlp, graph, kie, one-shot-learning]
 # Our Model
 
 - partial graph matching problem formulated
-    ![1](2022-05-16-aicr2.0-papers-1.png)
+    ![1](2022-05-18-papers-one-shot-key-information-extraction-1.png)
     - (2)의 두 제약조건으로 다:다 매칭 및 매칭되지 않는 케이스가 배재
     - (1)의 좌측: 노드 간 similarity score를 구하기 위하여 positive case를 모두 더함
         - sums over all possible matching between support and query fields to calculate the vertex similarity score
