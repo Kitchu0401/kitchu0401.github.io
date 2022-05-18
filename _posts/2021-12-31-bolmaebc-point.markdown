@@ -2,7 +2,7 @@
 layout: post
 title: "볼매BC 출석포인트제 관련"
 date: 2021-12-31 18:42:00 +0900
-published: true
+published: false
 comments: false
 categories: []
 tags: []
